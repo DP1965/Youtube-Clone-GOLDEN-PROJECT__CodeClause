@@ -1,4 +1,4 @@
-# Youtube-Clone-GOLDEN-PROJECT__CodeClause
+# Youtube-Clone
 
 # Description
 The YouTube Clone project is a recreation of the popular video-sharing platform, YouTube. This clone replicates the user interface of YouTube, complete with a dark mode theme for a visually appealing experience. The project allows users to explore a familiar interface with non-clickable sections, and watch videos in a simplified manner.
